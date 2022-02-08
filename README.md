@@ -1,16 +1,14 @@
-### Hi there 👋
+![](https://user-images.githubusercontent.com/7108570/153092733-b522f2b3-354b-44f4-9be7-a6d44319d14b.gif)
 
-<!--
-**Silvertorch5/silvertorch5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Greetings from 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Silver, a C# Programmer/Systems Reliablity Engineer.
+
+Check out these open source projects and groups I work on! 
+
+<img src='https://spacestation14.io/images/main/logo.svg' width=150 >
+
+
+
+
