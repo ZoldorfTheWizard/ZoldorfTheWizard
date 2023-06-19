@@ -3,7 +3,7 @@
 
 ### Greetings 
 
-I am Zoldorf, a C# Programmer/Systems Reliablity Engineer.
+I am Zoldorf, a C# Programmer/React.js/Node.js/Systems Reliablity Engineer.
 
 Check out these open source projects and groups I work on! 
 
