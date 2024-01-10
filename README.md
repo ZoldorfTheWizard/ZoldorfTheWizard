@@ -3,7 +3,7 @@
 
 ### Greetings 
 
-I am Zoldorf, a Software Developer/Systems Reliablity Engineer.
+I am Zoldorf, a Software Developer/Systems Engineer
 
 Check out these open source projects that I manage/contribute to
 
