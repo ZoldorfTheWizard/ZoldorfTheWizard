@@ -3,7 +3,7 @@
 
 ### Greetings 
 
-I am Zoldorf, a Software Developer/Systems Engineer
+I am Zoldorf, a Full Stack Software Engineer
 
 Check out these open source projects that I manage/contribute to
 
