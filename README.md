@@ -1,10 +1,7 @@
-![](https://user-images.githubusercontent.com/7108570/153092733-b522f2b3-354b-44f4-9be7-a6d44319d14b.gif)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5d228d83-3597-43a0-b69f-da9ce5b61b72" />
+</p>
 
+Deep in the misty mountains, Zoldorf, an ancient Space Wizard, sat at his desk, his beard cascading over a desk cluttered with programming runes, a Mechanical Board Of Input and the shimmering mystical Orb of Debugging. The orb pulsed with swirling glyphs of cosmic code, reflecting Zoldorf’s current battle: a race condition in his multi-threaded data pipeline that had stalled time in a distant nebula. Peering into the orb, he traced the issue to a rogue mutex in ```AllocateCosmicEnergy()```—a relic of his own over-complicated design from centuries past.
 
-### Greetings 
-
-I am Zoldorf, a Full Stack Software Engineer
-
-Check out these open source projects that I manage/contribute to
-
-[<img src="https://spacestation14.io/images/main/logo.svg">](https://github.com/space-wizards?type=source)[<img src="https://avatars.githubusercontent.com/u/10567778?s=400&u=7eaef2d2e1c19da303d83ab8b2d103bd46cf4fb8&v=4">](https://github.com/OpenDreamProject/OpenDream)
+Rapidly Inputting commands into the Mechanical Board of Input, Zoldorf refactored the spell, replacing the faulty locks with some semaphore runes. As he executed the fix, the orb spun faster, casting beams of harmonious light. The stars in the distant nebula resumed their paths, and a faint melody of humming filled the air. Smiling, Zoldorf leaned back, only to sigh a few moments later as a fresh stack of error logs appeared with a puff of smoke in the corner. "A wizard’s work is never finished," he muttered, returning to his Mechanical Board of Input as the orb pulsed beside him.
